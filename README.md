@@ -30,11 +30,11 @@ CS2 Advanced Positioning Metric - FPS positioning metrics have long been poluted
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) (Minor experience in basic 3D graphics)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+(Minor experience in basic 3D graphics)
 ### Off the clock
 
 Downhill Mountain Biking (Raced With Jordan Williams in my Youth!), Sim racing (Assetto Corsa, Nordschleife laps), CS2 (24k Premier), cooking.
