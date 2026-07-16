@@ -1,6 +1,6 @@
 # Hi, I'm Isaac 
 
-Computer Science (BEng) Graduate at the **University of York** 2:1, heading into ML engineering and data roles. Previously a data engineering intern at **Siemens Mobility** — ETL pipelines for messy real-world data. 
+I have just graduated from the **University of York** with a degree in Computer Science (BEng), during the course of my degree I have completed an internship at **Siemens Mobility**  working within the Digital Innovations team, my work correlated most closely to data engineering — ETL pipelines for messy real-world data.
 
 Currently Newcastle-based.
 
