@@ -10,9 +10,11 @@ Currently Newcastle-based.
 I completed my dissertation focussing on using Neural Networks to produce realistic facial appearance and skin renders from in the wild images, this included adapting previously state of the art methods such as DECA and combining it with SkinNet to produce biophysically based skin parameters to then re render and test their likeness to input photos. 
 During this project I discovered new approaches in feature engineering, establishing what data could potentially pollute the training of the models and developing novel techniques to clean data and produce accurate models.
 
-###  Smaller builds
+###  Previous Notable Projects
 
-Orbital-decay regression, Assetto Corsa Telemetry Analysis, letter identifier - no ML libraries entirely mathematical application
+MLP Letter identifier (zero ML libraries, highly recommended fun challenge to test your understanding)
+Assetto Corsa Telemetry Analysis
+
 
 ### Project In pipeline
 
