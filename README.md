@@ -1,13 +1,14 @@
 # Hi, I'm Isaac 
 
-Computer Science (BEng) Graduate at the **University of York** 2:1, heading into ML engineering and data roles. Previously a data engineering intern at **Siemens Mobility** — ETL pipelines for messy real-world data. Newcastle-based.
+Computer Science (BEng) Graduate at the **University of York** 2:1, heading into ML engineering and data roles. Previously a data engineering intern at **Siemens Mobility** — ETL pipelines for messy real-world data. 
+
+Currently Newcastle-based.
 
 ---
 
 ###  3D Face Reconstruction From in the Wild Images — final year dissertation
-Using the DECA pipeline, I investigated integrating a modified version of SkinNet (X. Li, G. C. Guarnera, A. Lin, and A. Ghosh, "Realistic facial age transformation with 3D uplifting") to estimate and edit chromophores for more realistic skin rendering — improving skin tone accuracy in ambiguously lit images by reconstructing from a biophysical baseline, so that poor lighting never produces an unobtainable skin tone. Progress was bottlenecked by DECA's default delighting stage: attempts to account for specular reflections and shadows ran into the inherent ambiguity of ground-truth images, a problem better addressed by more complex approaches like S3Face. The approach had fundamental flaws, but did improve DECA's skin tone accuracy on relit images. Next steps: lighter-weight delighting stages (short of a full Stable Diffusion approach), and extending DECA's rendering stage with Subsurface Scattering to properly utilise the estimated chromophores.
-
-
+I completed my dissertation focussing on using Neural Networks to produce realistic facial appearance and skin renders from in the wild images, this included adapting previously state of the art methods such as DECA and combining it with SkinNet to produce biophysically based skin parameters to then re render and test their likeness to input photos. 
+During this project I discovered new approaches in feature engineering, establishing what data could potentially pollute the training of the models and developing novel techniques to clean data and produce accurate models.
 
 ###  Smaller builds
 
