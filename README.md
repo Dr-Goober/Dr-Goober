@@ -16,7 +16,7 @@ Orbital-decay regression, Assetto Corsa Telemetry Analysis, letter identifier - 
 
 ### Project In pipeline
 
-Caveman Coding - coding course centred around fundamental hybrid learning, focused on implementing mathematical concepts directly into code to build better fundamental decision making skills, aimed at training software developers to consider project directions with a grounded approach.
+Caveman Coding - coding course centred around fundamental hybrid learning, focused on implementing mathematical concepts directly into code to build better fundamental decision making skills, aimed at training up and coming engineers like myself to leverage strong fundamental understanding to make better informed high level decisions, resulting in more efficent and less error prone projects.
 
 CS2 Advanced Positioning Metric - FPS positioning metrics have long been poluted by lucky angles and dynamic gameplay that makes it inherently hard to quanitfy. This novel approach leveraging large CS2 demo datasets aims to establish what defines a play as *Lucky* and what defines one as **skill**. This is established by combining all other metrics that are already well documented into a multi layered model. Current outputs suggest good correlation, pro players are getting rated consistently better than average, something that other industry leaders have struggled to confidently match without using other statistics as bias. This model uses other statistics to eliminate bad plays to encourage position as opposed to other stats boosting position rating.
 
