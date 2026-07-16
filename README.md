@@ -36,7 +36,6 @@ CS2 Advanced Positioning Metric - FPS positioning metrics have long been poluted
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
-(Minor experience in basic 3D graphics)
 ### Off the clock
 
 Downhill Mountain Biking (Raced With Jordan Williams in my Youth!), Sim racing (Assetto Corsa, Nordschleife laps), CS2 (24k Premier), cooking.
