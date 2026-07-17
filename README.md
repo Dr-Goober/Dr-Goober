@@ -1,44 +1,196 @@
-# Hi, I'm Isaac 
+<div align="center">
 
-I have just graduated from the **University of York** with a degree in Computer Science (BEng), during the course of my degree I have completed an internship at **Siemens Mobility**  working within the Digital Innovations team, my work correlated most closely to data engineering — ETL pipelines for messy real-world data.
+# Isaac
 
-Currently Newcastle-based.
+### *First Principles • Machine Learning • Data Engineering • Computer Vision*
 
----
+Computer Science (BEng) graduate from the **University of York** with industry experience at **Siemens Mobility** building data engineering solutions for real-world industrial datasets.
 
-###  3D Face Reconstruction From in the Wild Images — final year dissertation
-I completed my dissertation focussing on using Neural Networks to produce realistic facial appearance and skin renders from in the wild images, this included adapting previously state of the art methods such as DECA and combining it with SkinNet to produce biophysically based skin parameters to then re render and test their likeness to input photos. 
-During this project I discovered new approaches in feature engineering, establishing what data could potentially pollute the training of the models and developing novel techniques to clean data and produce accurate models.
+I'm fascinated by understanding **why systems work**, whether that's neural networks, telemetry analysis, messy production data, or competitive game analytics. Most of my projects revolve around breaking complex problems into understandable components before building solutions.
 
-###  Previous Notable Projects
+📍 Newcastle, UK
 
-MLP Letter identifier (zero ML libraries, highly recommended fun challenge to test your understanding)
-Assetto Corsa Telemetry Analysis
+[LinkedIn](https://www.linkedin.com/in/zakmcguire/) • [Email](mailto:zak.mcguire.03@gmail.com)
 
-
-### Project In pipeline
-
-Caveman Coding - coding course centred around fundamental hybrid learning, focused on implementing mathematical concepts directly into code to build better fundamental decision making skills, aimed at training up and coming engineers like myself to leverage strong fundamental understanding to make better informed high level decisions, resulting in more efficent and less error prone projects.
-
-CS2 Advanced Positioning Metric - FPS positioning metrics have long been poluted by lucky angles and dynamic gameplay that makes it inherently hard to quanitfy. This novel approach leveraging large CS2 demo datasets aims to establish what defines a play as *Lucky* and what defines one as **skill**. This is established by combining all other metrics that are already well documented into a multi layered model. Current outputs suggest good correlation, pro players are getting rated consistently better than average, something that other industry leaders have struggled to confidently match without using other statistics as bias. This model uses other statistics to eliminate bad plays to encourage position as opposed to other stats boosting position rating.
-
-
+</div>
 
 ---
 
-### Stack
+```text
+.
+├── 🧠 Machine Learning
+├── 🚂 Data Engineering
+├── 👁️ Computer Vision
+├── 📊 Analytics
+└── ⚙️ First Principles
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+# 🚀 Featured Projects
 
-### Other Interests
+## 🧠 Neural Face Reconstruction
 
-Downhill Mountain Biking (Raced With/Against Jordan Williams [Proof](https://www.rootsandrain.com/event6083/2017-dec-3-mini-downhill-onza-mini-downhill-forest-of-dean/results/#h-13-14m)), Sim racing (Assetto Corsa, Nordschleife laps), CS2 (24k Premier), Cooking, Hiking, Travelling
+> **Final Year Dissertation**
 
-📫 [LinkedIn](https://www.linkedin.com/in/zakmcguire/) · [Email](zak.mcguire.03@gmail.com)
+A research project investigating photorealistic 3D face reconstruction from **in-the-wild images**.
+
+The project combined **DECA** with **SkinNet** to generate physically-based skin parameters capable of producing realistic facial renders from a single image.
+
+Along the way I discovered that much of the performance bottleneck wasn't architecture—but **data quality**.
+
+This led to developing new feature engineering and dataset cleaning techniques that significantly improved reconstruction accuracy.
+
+**Focus**
+
+- Neural Networks
+- Computer Vision
+- PyTorch
+- Feature Engineering
+- Dataset Cleaning
+- Physically Based Rendering
+
+---
+
+## 🚂 Siemens Mobility
+
+> **Digital Innovations Internship**
+
+Worked within Siemens Mobility's Digital Innovations team developing ETL pipelines for messy industrial datasets.
+
+Most of my work focused on transforming inconsistent engineering data into reliable datasets suitable for downstream analytics.
+
+**Focus**
+
+- Python
+- SQL
+- pandas
+- ETL Pipelines
+- Data Engineering
+
+---
+
+## 🏎 Assetto Corsa Telemetry Analysis
+
+The goal wasn't simply comparing lap times.
+
+The goal was understanding **why** fast laps happen.
+
+Using telemetry data I analysed braking behaviour, racing lines, consistency and driving styles to identify patterns that separate quick drivers from average ones.
+
+---
+
+## 🔤 Neural Network From Scratch
+
+A multilayer perceptron written **without using machine learning libraries**.
+
+Built as a challenge to understand every stage of training—from forward propagation and backpropagation to optimisation—rather than treating frameworks as black boxes.
+
+---
+
+# 🔬 Currently Building
+
+## 🪨 Caveman Coding
+
+*"Understand the fundamentals before reaching for the abstraction."*
+
+A programming course centred around hybrid learning, teaching mathematical and algorithmic intuition through direct implementation instead of relying on high-level libraries.
+
+The aim is to help engineers develop stronger first-principles thinking that leads to simpler, more reliable software.
+
+```
+Progress
+██████░░░░░ 60%
+```
+
+---
+
+## 🎮 CS2 Advanced Positioning Metric
+
+Most positioning statistics reward outcomes.
+
+I'm interested in measuring **decision quality**.
+
+This project analyses thousands of CS2 demos to distinguish between positioning that was genuinely good and positioning that only succeeded because of luck.
+
+The model combines existing statistics into a layered evaluation system capable of isolating positioning skill from unrelated performance metrics.
+
+Current testing shows strong correlation with professional play while avoiding many of the biases found in existing ranking systems.
+
+```
+Progress
+███████░░░ 70%
+```
+
+---
+
+# 💡 Engineering Philosophy
+
+I enjoy taking complicated systems apart until they become understandable.
+
+Whether that's
+
+- Neural Networks
+- Industrial Data
+- Computer Vision
+- Racing Telemetry
+- Competitive Games
+
+I'm interested in uncovering the underlying structure hidden inside noisy data.
+
+I strongly believe that understanding **why something works** is ultimately more valuable than simply knowing **how to use it**.
+
+---
+
+# 🛠 Tech
+
+### Languages
+
+`Python` • `Java` • `C` • `SQL`
+
+### Machine Learning
+
+`PyTorch` • `pandas` • `NumPy`
+
+### Tools
+
+`Git` • `Linux`
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/>
+</p>
+
+---
+
+# 🌄 Outside of Programming
+
+🚵 Downhill Mountain Biking
+
+🏁 Sim Racing *(Assetto Corsa / Nordschleife enthusiast)*
+
+🎯 CS2 *(24k Premier)*
+
+🥾 Hiking
+
+🍳 Cooking
+
+🌍 Travelling
+
+---
+
+# ⚡ Fun Fact
+
+I will happily spend three days rewriting something if it makes the final solution 5% cleaner.
+
+---
+
+<div align="center">
+
+### Thanks for stopping by 👋
+
+If any of the projects sound interesting, feel free to have a look around or get in touch.
+
+</div>
