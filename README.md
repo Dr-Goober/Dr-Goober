@@ -5,8 +5,6 @@
 
 # Isaac
 
-### Building machine learning systems from first principles.
-
 Computer Science (BEng) graduate from the **University of York** with experience at **Siemens Mobility** developing data engineering solutions for real-world industrial datasets.
 
 Interested in **Machine Learning**, **Computer Vision**, **Data Engineering**, and solving problems by understanding **why** they work before deciding **how** to build them.
