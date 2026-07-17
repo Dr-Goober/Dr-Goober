@@ -2,7 +2,7 @@
 
 # Isaac
 
-### *First Principles • Machine Learning • Data Engineering • Computer Vision*
+### *Machinne Learning • Data Engineering • Computer Vision*
 
 Computer Science (BEng) graduate from the **University of York** with industry experience at **Siemens Mobility** building data engineering solutions for real-world industrial datasets.
 
