@@ -9,7 +9,7 @@ Computer Science (BEng) graduate from the **University of York** with experience
 
 Currently developing a coding bootcamp "Caveman Coding" more information to come!
 
-Interested in **Machine Learning**, **Computer Vision**, **Data Engineering**, and solving problems with bedrock foundations, promoting an efficient workflow and scalable project from the first prototype.
+Interested in **Machine Learning**, **Financial Technology**, **Data Engineering**, and solving problems with bedrock foundations, promoting an efficient workflow and scalable project from the first prototype.
 
 📍 Newcastle, UK
 
