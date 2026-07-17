@@ -117,7 +117,7 @@ Current testing shows strong correlation with professional play while avoiding m
 
 ```
 Progress
-███████░░░ 70%
+Currently deep down a rabbit hole
 ```
 
 ---
