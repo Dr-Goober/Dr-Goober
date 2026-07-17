@@ -1,83 +1,60 @@
-<div align="center">
+<table>
+<tr>
+
+<td width="55%" valign="top">
 
 # Isaac
 
-### *Machinne Learning • Data Engineering • Computer Vision*
+### Building machine learning systems from first principles.
 
-Computer Science (BEng) graduate from the **University of York** with industry experience at **Siemens Mobility** building data engineering solutions for real-world industrial datasets.
+Computer Science (BEng) graduate from the **University of York** with experience at **Siemens Mobility** developing data engineering solutions for real-world industrial datasets.
 
-I'm fascinated by understanding **why systems work**, whether that's neural networks, telemetry analysis, messy production data, or competitive game analytics. Most of my projects revolve around breaking complex problems into understandable components before building solutions.
+Interested in **Machine Learning**, **Computer Vision**, **Data Engineering**, and solving problems by understanding **why** they work before deciding **how** to build them.
 
 📍 Newcastle, UK
 
-[LinkedIn](https://www.linkedin.com/in/zakmcguire/) • [Email](mailto:zak.mcguire.03@gmail.com)
+<br>
 
-</div>
-```text
-.
-├── 🧠 Machine Learning
-├── 🚂 Data Engineering
-├── 👁️ Computer Vision
-└── 📊 Analytics
-```
-**Focus**
-- Neural Networks
-- Computer Vision
-- PyTorch
-- Feature Engineering
-- Dataset Cleaning
-- Physically Based Rendering
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakmcguire/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zak.mcguire.03@gmail.com)
 
-## Siemens Mobility 🚂🚂🚂
+</td>
 
-> **Digital Innovations Internship**
+<td width="45%" align="center" valign="middle">
 
-Worked within Siemens Mobility's Digital Innovations team developing ETL pipelines for messy industrial datasets.
-Most of my work focused on transforming inconsistent engineering data into reliable datasets suitable for downstream analytics.
+### 🚀 Currently
 
-**Focus**
-- Python
-- SQL
-- pandas
-- ETL Pipelines
-- Data Engineering
+🧠 **Neural Face Reconstruction**
 
-# Projects
+🎮 **CS2 Position Metric**
 
-## Neural Face Reconstruction
+🪨 **Caveman Coding**
 
-> **Final Year Dissertation**
+🏎 **Telemetry Analysis**
 
-A research project investigating photorealistic 3D face reconstruction from **in-the-wild images**.
+---
 
-## 🏎 Assetto Corsa Telemetry Analysis
+### 💻 Tech
 
-## Neural Network From Scratch
+`Python`
 
-A multilayer perceptron written **without using machine learning libraries**. Exercise to better understand how Neural Networks work.
+`PyTorch`
 
-# Currently Building
+`SQL`
 
-## Caveman Coding
+`Java`
 
-*"Understand the fundamentals before reaching for the abstraction."*
+`Linux`
 
-A programming course centred around hybrid learning, teaching mathematical and algorithmic intuition through direct implementation instead of relying on high-level libraries.
+`Git`
 
-## 🎮 CS2 Advanced Positioning Metric
+---
 
-#🛠 Tech 🛠
+*"Understand why. Build how."*
 
-### Languages
+</td>
 
-`Python` • `Java` • `C` • `SQL`
+</tr>
+</table>
 
-### Machine Learning
-
-`PyTorch` • `pandas` • `NumPy`
-
-### Tools
-
-`Git` • `Linux`
-
-
+---
