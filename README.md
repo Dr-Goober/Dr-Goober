@@ -21,8 +21,7 @@ I'm fascinated by understanding **why systems work**, whether that's neural netw
 ├── 🧠 Machine Learning
 ├── 🚂 Data Engineering
 ├── 👁️ Computer Vision
-├── 📊 Analytics
-└── ⚙️ First Principles
+└── 📊 Analytics
 ```
 
 # Featured Projects
