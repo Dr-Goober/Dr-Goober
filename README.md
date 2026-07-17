@@ -11,6 +11,12 @@ Interested in **Machine Learning**, **Computer Vision**, **Data Engineering**, a
 
 📍 Newcastle, UK
 
+**Previous Projects**
+
+ **Neural Face Reconstruction** (Final Year Dissertation)
+
+ Asseto Corsa Telemetry Analysis
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakmcguire/)
@@ -22,7 +28,6 @@ Interested in **Machine Learning**, **Computer Vision**, **Data Engineering**, a
 
 ### 🚀 Currently
 
-🧠 **Neural Face Reconstruction**
 
 🎮 **CS2 Position Metric**
 
