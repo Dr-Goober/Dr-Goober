@@ -5,7 +5,7 @@
 
 # Isaac
 
-Computer Science (BEng) graduate from the **University of York** with experience at **Siemens Mobility** developing data engineering solutions for real-world industrial datasets.
+Computer Science (BEng) graduate from the **University of York** with experience at **Siemens Mobility** developing data engineering solutions for real-world industrial datasets. Currently developing a coding bootcamp "Caveman Coding" more information to come!
 
 Interested in **Machine Learning**, **Computer Vision**, **Data Engineering**, and solving problems by understanding **why** they work before deciding **how** to build them.
 
@@ -28,12 +28,11 @@ Interested in **Machine Learning**, **Computer Vision**, **Data Engineering**, a
 
 ### 🚀 Currently
 
+**Caveman Coding**
 
-🎮 **CS2 Position Metric**
+**CS2 Position Metric**
 
-🪨 **Caveman Coding**
-
-🏎 **Telemetry Analysis**
+**Telemetry Analysis**
 
 ---
 
