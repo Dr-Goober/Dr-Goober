@@ -48,8 +48,6 @@ Interested in **Machine Learning**, **Computer Vision**, **Data Engineering**, a
 
 ---
 
-*"Understand why. Build how."*
-
 </td>
 
 </tr>
