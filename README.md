@@ -25,9 +25,9 @@ I'm fascinated by understanding **why systems work**, whether that's neural netw
 └── ⚙️ First Principles
 ```
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🧠 Neural Face Reconstruction
+## Neural Face Reconstruction
 
 > **Final Year Dissertation**
 
@@ -50,7 +50,7 @@ This led to developing new feature engineering and dataset cleaning techniques t
 
 ---
 
-## 🚂 Siemens Mobility
+## Siemens Mobility 🚂🚂🚂
 
 > **Digital Innovations Internship**
 
@@ -78,7 +78,7 @@ Using telemetry data I analysed braking behaviour, racing lines, consistency and
 
 ---
 
-## 🔤 Neural Network From Scratch
+## Neural Network From Scratch
 
 A multilayer perceptron written **without using machine learning libraries**.
 
@@ -86,9 +86,9 @@ Built as a challenge to understand every stage of training—from forward propag
 
 ---
 
-# 🔬 Currently Building
+# Currently Building
 
-## 🪨 Caveman Coding
+## Caveman Coding
 
 *"Understand the fundamentals before reaching for the abstraction."*
 
@@ -122,7 +122,7 @@ Currently deep down a rabbit hole
 
 ---
 
-# 💡 Engineering Philosophy
+# Engineering Philosophy
 
 I enjoy taking complicated systems apart until they become understandable.
 
@@ -140,7 +140,7 @@ I strongly believe that understanding **why something works** is ultimately more
 
 ---
 
-# 🛠 Tech
+#🛠 Tech 🛠
 
 ### Languages
 
@@ -156,7 +156,7 @@ I strongly believe that understanding **why something works** is ultimately more
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
@@ -165,25 +165,19 @@ I strongly believe that understanding **why something works** is ultimately more
 
 ---
 
-# 🌄 Outside of Programming
+# 🌄 Outside of Programming 🌄
 
-🚵 Downhill Mountain Biking
+Downhill Mountain Biking 🚵 
 
-🏁 Sim Racing *(Assetto Corsa / Nordschleife enthusiast)*
+ Sim Racing *(Assetto Corsa / Nordschleife enthusiast)*
 
-🎯 CS2 *(24k Premier)*
+ CS2 *(24k Premier)*
 
-🥾 Hiking
+ Hiking 🥾
 
-🍳 Cooking
+ Cooking
 
-🌍 Travelling
-
----
-
-# ⚡ Fun Fact
-
-I will happily spend three days rewriting something if it makes the final solution 5% cleaner.
+ Travelling
 
 ---
 
