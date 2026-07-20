@@ -37,7 +37,7 @@ Interested in **Machine Learning**, **Financial Technology**, **Data Engineering
 
 ---
 
-### 💻 Tech
+### Stack
 
 `Python`
 
