@@ -1,41 +1,46 @@
-<table>
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-# Isaac
+```text
+ ___  ____      _        _      ____
+|_ _|/ ___|    / \      / \    / ___|
+ | | \___ \   / _ \    / _ \  | |
+ | |  ___) | / ___ \  / ___ \ | |___
+|___||____/ /_/   \_\/_/   \_\ \____|
+```
 
-Computer Science (BEng) graduate from the **University of York**, with experience at **Siemens Mobility** building data-engineering solutions for real-world industrial datasets.
+</div>
 
-Currently developing a coding bootcamp — **Caveman Coding**. More to come!
+```console
+isaac@york:~$ whoami
+Computer Science (BEng) graduate — University of York
+Data engineering @ Siemens Mobility  ·  📍 Newcastle, UK
 
-Interested in **Machine Learning**, **AI Integration**, **Financial Technology**, and **Data Engineering** — solving problems on bedrock foundations, so the first prototype is already an efficient, scalable project.
+isaac@york:~$ cat interests.txt
+machine-learning · ai-integration · fintech · data-engineering
+bedrock foundations → efficient and scalable from the first prototype
 
-📍 Newcastle, UK
+isaac@york:~$ ls ~/projects/
+integrated-remarkable-tutor/    # <- current
+neural-face-reconstruction/     # final-year dissertation
+caveman-coding/                 # data structures -> pure-NumPy MLPs
+assetto-corsa-telemetry/
 
-### Recent Projects
+isaac@york:~$ cat ~/projects/integrated-remarkable-tutor/ABOUT
+An agentic AI tutor driven entirely by handwriting. A Python watcher
+monitors a reMarkable 2's stroke files over SSH: circle work in RED
+to get it marked, BLUE to get it explained, GREY ink is a command
+channel — replies land on your phone as notifications.
+No app. No typing. The pen is the interface.
 
-- **Neural Face Reconstruction** — final-year dissertation
-- **Caveman Coding** — a coding-skills course I built for myself, ramping from simple data structures to pure-NumPy MLPs
-- **Assetto Corsa Telemetry Analysis**
+isaac@york:~$ echo $STACK
+python pytorch sql java linux git
+```
+
+<div align="center">
+
+**[→ Integrated reMarkable Tutor](https://github.com/Dr-Goober/Integrated-Remarkable-Tutor)** — the current project, full source + setup
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakmcguire/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zak.mcguire.03@gmail.com)
 
-</td>
-<td width="45%" valign="top">
-
-### 🔭 Current Project
-
-**[Integrated reMarkable Tutor](https://github.com/Dr-Goober/Integrated-Remarkable-Tutor)** — an agentic AI tutor driven entirely by handwriting. A Python watcher monitors a reMarkable 2's stroke files over SSH; circling work in **red** gets it marked, **blue** gets it explained, **grey** ink is a command channel — and the reply lands on your phone as a notification. No app, no typing: the pen is the interface.
-
-Built and battle-tested during a real two-exam sprint; the repo has the full watcher, setup guide, and the Claude skills that turn raw course PDFs into workbooks and marking briefs.
-
----
-
-### Stack
-
-`Python` `PyTorch` `SQL` `Java` `Linux` `Git`
-
-</td>
-</tr>
-</table>
+</div>
