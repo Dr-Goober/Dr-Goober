@@ -16,7 +16,7 @@ EXPERIENCE
 
 INTERESTS
   machine-learning · ai-integration · fintech · data-engineering
-  bedrock foundations → efficient and scalable from the first prototype
+  Mountain biking · eSports · Beer
 
 PROJECTS
   integrated-remarkable-tutor/     <- current
