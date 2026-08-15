@@ -9,7 +9,10 @@
 ```text
 ABOUT
   Computer Science (BEng) graduate — University of York
-  Data engineering @ Siemens Mobility · Newcastle, UK
+  Looking for Work
+
+EXPERIENCE
+  Data engineering @ Siemens Mobility · Chippenham, UK
 
 INTERESTS
   machine-learning · ai-integration · fintech · data-engineering
