@@ -29,10 +29,9 @@ Interested in **Machine Learning**, **AI Integration**, **Financial Technology**
 
 <td width="45%" align="center" valign="middle">
 
-**Current Projects**
+**Current Project**
 
-Remarkable Agentic Workflow:
-Connecting to a ReMarkable 2 notepad via SSH and monitoring file updates via a python script, when a specific input type is detect (red, grey, blue) a relevant agent is spun up and reads your hand written message, the response is sent via ntfty so it can be conveniently viewed on your phone. The current repository contains all .MD files that Claude needs to construct study workflows and new agents to help tutor you through work, watcher scripts and setup instructions.
+A Python watcher connects to a reMarkable 2 over SSH and monitors its stroke files for ink in trigger colours: circle handwritten work in red to have it marked, blue to have it explained, or write a command in grey, and the matching Claude agent spins up, reads your page grounded in your own study materials, and pushes its reply to your phone via ntfy. You never leave the page — the phone is just a notification display. This repository holds everything needed to rebuild the workflow: the watcher and helper scripts, one-time setup instructions, and the Claude skill files that turn raw course PDFs into a study corpus, write-on workbooks, and the tutor briefs the marking is grounded in.
 
 ---
 
