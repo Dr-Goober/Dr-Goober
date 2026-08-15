@@ -18,6 +18,8 @@ Interested in **Machine Learning**, **AI Integration**, **Financial Technology**
 
  **Neural Face Reconstruction** (Final Year Dissertation)
 
+ **CAVEMANCODING** coding skills improvement site I made for myself, gradually increasing difficulty coding course that goes from simple data structures to pure NumPy MLPs
+
  Asseto Corsa Telemetry Analysis
 
 <br>
