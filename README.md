@@ -1,61 +1,41 @@
 <table>
 <tr>
-
 <td width="55%" valign="top">
 
 # Isaac
 
-Computer Science (BEng) graduate from the **University of York** with experience at **Siemens Mobility** developing data engineering solutions for real-world industrial datasets. 
+Computer Science (BEng) graduate from the **University of York**, with experience at **Siemens Mobility** building data-engineering solutions for real-world industrial datasets.
 
-Currently developing a coding bootcamp "Caveman Coding" more information to come!
+Currently developing a coding bootcamp — **Caveman Coding**. More to come!
 
-Interested in **Machine Learning**, **AI Integration**, **Financial Technology**, **Data Engineering**, and solving problems with bedrock foundations, promoting an efficient workflow and scalable project from the first prototype.
+Interested in **Machine Learning**, **AI Integration**, **Financial Technology**, and **Data Engineering** — solving problems on bedrock foundations, so the first prototype is already an efficient, scalable project.
 
 📍 Newcastle, UK
 
+### Recent Projects
 
-**Recent Projects**
-
- **Neural Face Reconstruction** (Final Year Dissertation)
-
- **CAVEMANCODING** coding skills improvement site I made for myself, gradually increasing difficulty coding course that goes from simple data structures to pure NumPy MLPs
-
- Asseto Corsa Telemetry Analysis
-
-<br>
+- **Neural Face Reconstruction** — final-year dissertation
+- **Caveman Coding** — a coding-skills course I built for myself, ramping from simple data structures to pure-NumPy MLPs
+- **Assetto Corsa Telemetry Analysis**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakmcguire/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zak.mcguire.03@gmail.com)
 
 </td>
+<td width="45%" valign="top">
 
-<td width="45%" align="center" valign="middle">
+### 🔭 Current Project
 
-**Current Project**
+**[Integrated reMarkable Tutor](https://github.com/Dr-Goober/Integrated-Remarkable-Tutor)** — an agentic AI tutor driven entirely by handwriting. A Python watcher monitors a reMarkable 2's stroke files over SSH; circling work in **red** gets it marked, **blue** gets it explained, **grey** ink is a command channel — and the reply lands on your phone as a notification. No app, no typing: the pen is the interface.
 
-A Python watcher connects to a reMarkable 2 over SSH and monitors its stroke files for ink in trigger colours: circle handwritten work in red to have it marked, blue to have it explained, or write a command in grey, and the matching Claude agent spins up, reads your page grounded in your own study materials, and pushes its reply to your phone via ntfy. You never leave the page — the phone is just a notification display. This repository holds everything needed to rebuild the workflow: the watcher and helper scripts, one-time setup instructions, and the Claude skill files that turn raw course PDFs into a study corpus, write-on workbooks, and the tutor briefs the marking is grounded in.
+Built and battle-tested during a real two-exam sprint; the repo has the full watcher, setup guide, and the Claude skills that turn raw course PDFs into workbooks and marking briefs.
 
 ---
 
 ### Stack
 
-`Python`
-
-`PyTorch`
-
-`SQL`
-
-`Java`
-
-`Linux`
-
-`Git`
-
----
+`Python` `PyTorch` `SQL` `Java` `Linux` `Git`
 
 </td>
-
 </tr>
 </table>
-
----
