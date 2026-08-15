@@ -13,7 +13,13 @@ Interested in **Machine Learning**, **AI Integration**, **Financial Technology**
 
 📍 Newcastle, UK
 
-**Previous Projects**
+**Current Projects**
+
+Remarkable Agentic Workflow:
+Connecting to a ReMarkable 2 notepad via SSH and monitoring file updates via a python script, when a specific input type is detect (red, grey, blue) a relevant agent is spun up and reads your hand written message, the response is sent via ntfty so it can be conveniently viewed on your phone. The current repository contains all .MD files that Claude needs to construct study workflows and new agents to help tutor you through work, watcher scripts and setup instructions.
+
+
+**Recent Projects**
 
  **Neural Face Reconstruction** (Final Year Dissertation)
 
