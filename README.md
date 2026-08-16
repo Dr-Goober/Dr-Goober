@@ -22,7 +22,7 @@ PROJECTS
   integrated-remarkable-tutor/     <- current
   neural-face-reconstruction/      final-year dissertation
   caveman-coding/                  data structures -> pure-NumPy MLPs
-  assetto-corsa-telemetry/         outcome -> I crash allot 
+  assetto-corsa-telemetry/         
 
 CURRENT PROJECT
   An agentic AI tutor driven entirely by handwriting. A Python watcher
