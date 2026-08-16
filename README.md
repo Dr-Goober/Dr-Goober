@@ -19,7 +19,7 @@ INTERESTS
   Mountain biking · eSports · Beer
 
 PROJECTS
-  integrated-remarkable-tutor/     <- current
+  integrated-remarkable-tutor/     <- Fully Integrated Agentic Tutor
   neural-face-reconstruction/      final-year dissertation
   caveman-coding/                  data structures -> pure-NumPy MLPs
   assetto-corsa-telemetry/         
