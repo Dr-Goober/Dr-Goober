@@ -16,7 +16,7 @@ EXPERIENCE
 
 INTERESTS
   machine-learning · ai-integration · fintech · data-engineering
-  Mountain biking · eSports · Beer
+  Mountain biking · Climbing · eSports · 
 
 PROJECTS
   integrated-remarkable-tutor/     <- Fully Integrated Agentic Tutor
