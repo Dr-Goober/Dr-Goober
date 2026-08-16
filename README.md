@@ -12,7 +12,7 @@ ABOUT
   Looking for Work
 
 EXPERIENCE
-  Data engineering @ Siemens Mobility · Chippenham, UK
+  Data engineering Intern @ Siemens Mobility · Chippenham, UK
 
 INTERESTS
   machine-learning · ai-integration · fintech · data-engineering
