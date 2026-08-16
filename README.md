@@ -32,7 +32,7 @@ CURRENT PROJECT
   No app. No typing. The pen is the interface.
 
 STACK
-  python · pytorch · sql · java · linux · git
+  python · pytorch · sql · java · linux · git · Claude CLI
 ```
 
 <div align="center">
